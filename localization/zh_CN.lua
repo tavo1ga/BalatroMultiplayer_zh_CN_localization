@@ -349,8 +349,8 @@ return {
 			k_ruleset_disabled_the_order_banned = "禁用 The Order",
 			k_ruleset_not_found = "未知规则集",
 			k_tutorial_not_complete = "你必须完成教程之后才能进行多人游戏",
-			k_created_by = "Created by",
-			k_major_contributors = "Major contributions by",
+			k_created_by = "创作者：",
+			k_major_contributors = "主要贡献由：",
 			ml_enemy_loc = { "敌方", "地点" },
 			ml_mp_kofi_message = {
 				"次模组以及游戏服务器",
