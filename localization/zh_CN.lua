@@ -203,7 +203,7 @@ return {
 			b_ready = "准备",
 			b_unready = "取消准备",
 			b_leave_lobby = "退出房间",
-			b_mp_discord = "Balatro 多人游戏的 Discord 服务器",
+			b_mp_discord = "Balatro Multiplayer的Discord服务器",
 			b_start = "开始",
 			b_wait_for_host_start = { "正在等待", "主机开始" },
 			b_wait_for_players = { "正在等待", "玩家" },
